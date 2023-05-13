@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a5c9eaf739ee4a84085af47b524eaa88, type: 3}
+  m_Name: LevelConstants
+  m_EditorClassIdentifier: 
+  _targetFPS: 59
+  _spawnPointTag: SpawnPoint
+  _playerActorPrefab: {fileID: 861668739768441064, guid: 95e76c648a263274fa6e1d965376182e, type: 3}
+  _playerTeam: 1
+  _winPlatformsCount: 95
